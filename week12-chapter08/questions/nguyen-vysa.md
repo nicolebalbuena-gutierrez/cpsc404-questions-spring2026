@@ -1,4 +1,4 @@
-# Week 12 Question - Chapter 8: Your Boss Is Not Your Friend
+# Week 12 Question
 
 **Student:** Vy Sa Nguyen
 **Date:** April 9, 2026
